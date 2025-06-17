@@ -1,18 +1,3 @@
-<!-- ─────────────────────────  HEADER BANNER  ───────────────────────── -->
-<p align="center">
-  <!-- Swap banner.svg for any image / GIF you add to /assets -->
-  <img src="https://github.com/saicharansom/saicharansom/blob/main/assets/banner.svg"
-       alt="Sai Charan – Data Science · Graph Analytics · AI/ML" width="100%">
-</p>
-
-<h1 align="center">Hi&nbsp;there&nbsp;👋&nbsp;I’m&nbsp;Sai&nbsp;Charan&nbsp;Somineni</h1>
-<p align="center"><strong>Data Scientist&nbsp;•&nbsp;Graph Analytics Builder&nbsp;•&nbsp;AI / ML Enthusiast</strong></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saicharansom&style=flat&label=Profile+views">
-  <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-brightgreen">
-  <img src="https://img.shields.io/badge/Coffee%20lover-%23b86742">
-</p>
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 ## 🔍 About&nbsp;me
