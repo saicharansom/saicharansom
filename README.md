@@ -91,7 +91,7 @@ I turn messy, multi‑source data into **clear, actionable insight**. From **evi
 ## 🤝 Let’s connect
 <p align="center">
   <a href="https://www.linkedin.com/in/sominenisaicharan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
-  <a href="mailto:saicharansom5@gmail.com"><img src="https://img.shields.io/badge/Email-ssominen@gmu.edu-EA4335?logo=gmail&logoColor=white" alt="Email badge" /></a>
+  <a href="mailto:saicharansom5@gmail.com"><img src="https://img.shields.io/badge/Email-saicharansom5@gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email badge" /></a>
 </p>
 
 ☕ Always happy to chat about graph analytics, RAG pipelines, or your favourite coffee roast.
