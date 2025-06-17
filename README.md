@@ -1,8 +1,4 @@
 <!-- ─────────────────────────  HEADER BANNER  ───────────────────────── -->
-<p align="center">
-  <img src="https://github.com/saicharansom/saicharansom/blob/main/assets/banner.svg" alt="Sai Charan – Data Science · Graph Analytics · AI/ML" width="100%" />
-</p>
-
 <h1 align="center">Hi there 👋 I’m Sai Charan Somineni</h1>
 <p align="center"><strong>Data Scientist • Graph Analytics Builder • AI / ML Enthusiast</strong></p>
 
