@@ -1,6 +1,6 @@
 <!-- ─────────────────────────  HEADER BANNER  ───────────────────────── -->
 <h1 align="center">Hi there 👋 I’m Sai Charan Somineni</h1>
-<p align="center"><strong>Data Scientist • Graph Analytics Builder • AI / ML Enthusiast</strong></p>
+<p align="center"><strong>Data Engineer • Data Scientist • Data Analyst • Graph Analytics Builder • AI / ML Enthusiast</strong></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saicharansom&style=flat&label=Profile+views" alt="Profile views badge" />
