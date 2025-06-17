@@ -72,9 +72,7 @@ I turn messy, multi‑source data into **clear, actionable insight**. From **evi
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-📂 Case Files
 
-Pinned below.Proceed at your own risk.
 
 <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 ## 📌 Featured projects
@@ -85,6 +83,12 @@ Pinned below.Proceed at your own risk.
 | **Smart Resume Screener**<br><sub>React + LLM platform that matches candidates to job descriptions.</sub> | ![Stack](https://img.shields.io/badge/React%20·%20FastAPI%20·%20GPT‑3.5-yellowgreen) |
 | **Domain‑Specific QA for Pavement NDE**<br><sub>Fine‑tuned BERT / GPT‑2 model answering infrastructure‑inspection questions at 86% accuracy.</sub> | ![Stack](https://img.shields.io/badge/BERT%20·%20GPT‑2%20·%20FAISS-orange) |
 | **Limitless Tales**<br><sub>GPT‑2 storyteller that keeps characters & plot consistent across branches.</sub> | ![Stack](https://img.shields.io/badge/GPT‑2%20·%20Hugging Face-lightgrey) |
+
+
+📂 Case Files
+
+Pinned below.
+Proceed at your own risk.
 
 <!-- ═══════════════════════ RESUME LINK ═══════════════════════ -->
 ## 📄 Resume
