@@ -1,8 +1,10 @@
 <!-- ─────────────────────────  HEADER BANNER  ───────────────────────── -->
-
+<p align="center">
+  <img src="https://github.com/saicharansom/saicharansom/blob/main/assets/banner.svg" alt="Sai Charan – Data Science · Graph Analytics · AI/ML" width="100%" />
+</p>
 
 <h1 align="center">Hi there 👋 I’m Sai Charan Somineni</h1>
-<p align="center"><strong>Data Scientist • Graph Analytics Builder • AI&nbsp;/&nbsp;ML Enthusiast</strong></p>
+<p align="center"><strong>Data Scientist • Graph Analytics Builder • AI / ML Enthusiast</strong></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saicharansom&style=flat&label=Profile+views" alt="Profile views badge" />
@@ -16,9 +18,9 @@ I turn messy, multi‑source data into **clear, actionable insight**. From **evi
 
 <!-- ══════════════════════ WHAT I’M EXPLORING ══════════════════════ -->
 ## 🚀 What I’m exploring right now
-- 🕸 **Graph algorithms** &amp; GNNs for supply‑chain forensics  
+- 🕸 **Graph algorithms** & GNNs for supply‑chain forensics  
 - 🔎 **RAG pipelines** (FAISS + OpenAI) for domain‑aware retrieval  
-- ☁️ **Productionising LLM apps** with FastAPI, Docker &amp; AWS  
+- ☁️ **Productionising LLM apps** with FastAPI, Docker & AWS  
 
 <!-- ═════════════════════════ TECH TOOLBOX ═════════════════════════ -->
 ## 🧰 Tech toolbox
@@ -37,23 +39,17 @@ I turn messy, multi‑source data into **clear, actionable insight**. From **evi
 ## 📌 Featured projects
 | Project | Stack |
 | :-- | :-- |
-| **Augment Linkage: Evidence &amp; Exploration**<br><sub>Maps 10k+ entities and weights evidence to expose illicit fentanyl supply chains.</sub> | ![Stack](https://img.shields.io/badge/AWS%20Neptune%20·%20Neo4j%20·%20Gremlin%20·%20Python-brightgreen) |
+| **Augment Linkage: Evidence & Exploration**<br><sub>Maps 10k+ entities and weights evidence to expose illicit fentanyl supply chains.</sub> | ![Stack](https://img.shields.io/badge/AWS%20Neptune%20·%20Neo4j%20·%20Gremlin%20·%20Python-brightgreen) |
 | **ArXivIntelliRAG**<br><sub>LLM agent that fetches the most relevant papers for any research query.</sub> | ![Stack](https://img.shields.io/badge/LangChain%20·%20FAISS%20·%20OpenAI-blueviolet) |
 | **Smart Resume Screener**<br><sub>React + LLM platform that matches candidates to job descriptions.</sub> | ![Stack](https://img.shields.io/badge/React%20·%20FastAPI%20·%20GPT‑3.5-yellowgreen) |
 | **Domain‑Specific QA for Pavement NDE**<br><sub>Fine‑tuned BERT / GPT‑2 model answering infrastructure‑inspection questions at 86% accuracy.</sub> | ![Stack](https://img.shields.io/badge/BERT%20·%20GPT‑2%20·%20FAISS-orange) |
-| **Limitless Tales**<br><sub>GPT‑2 storyteller that keeps characters &amp; plot consistent across branches.</sub> | ![Stack](https://img.shields.io/badge/GPT‑2%20·%20Hugging Face-lightgrey) |
+| **Limitless Tales**<br><sub>GPT‑2 storyteller that keeps characters & plot consistent across branches.</sub> | ![Stack](https://img.shields.io/badge/GPT‑2%20·%20Hugging Face-lightgrey) |
 
-<!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saicharansom&show_icons=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saicharansom" height="165" alt="GitHub streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharansom&layout=compact" height="165" alt="Top languages" />
-</p>
+<!-- ═══════════════════════ RESUME LINK ═══════════════════════ -->
+## 📄 Resume
+[Download my resume ↗](https://github.com/saicharansom/my-resume/blob/dd3b86cf35f4cdc3e083595e31688f02b74062a3/Sai%20Charan%20Somineni.pdf)
 
-<!-- ════════════════════════ CONNECT LINKS ════════════════════════ -->
+<!-- ═══════════════════════ CONNECT LINKS ═══════════════════════ -->
 ## 🤝 Let’s connect
 <p align="center">
   <a href="https://www.linkedin.com/in/sominenisaicharan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
@@ -61,3 +57,4 @@ I turn messy, multi‑source data into **clear, actionable insight**. From **evi
 </p>
 
 ☕ Always happy to chat about graph analytics, RAG pipelines, or your favourite coffee roast.
+
