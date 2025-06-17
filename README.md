@@ -72,6 +72,9 @@ I turn messy, multi‑source data into **clear, actionable insight**. From **evi
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+📂 Case Files
+
+Pinned below.Proceed at your own risk.
 
 <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 ## 📌 Featured projects
