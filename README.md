@@ -16,7 +16,7 @@ I turn messy, multi‑source data into **clear, actionable insight**. From **evi
 ## 🚀 What I’m exploring right now
 - 🕸 **Graph algorithms** & GNNs for supply‑chain forensics  
 - 🔎 **RAG pipelines** (FAISS + OpenAI) for domain‑aware retrieval  
-- ☁️ **Productionising LLM apps** with FastAPI, Docker & AWS  
+- ☁️ **Deploying LLM apps** with FastAPI, Docker & AWS  
 
 <!-- ═════════════════════════ TECH TOOLBOX ═════════════════════════ -->
 ## 🧰 Tech toolbox
