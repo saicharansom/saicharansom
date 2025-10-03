@@ -92,7 +92,7 @@ Proceed at your own risk.
 
 <!-- ═══════════════════════ RESUME LINK ═══════════════════════ -->
 ## 📄 Resume
-[Download my resume ↗](https://github.com/saicharansom/my-resume/blob/dd3b86cf35f4cdc3e083595e31688f02b74062a3/Sai%20Charan%20Somineni.pdf)
+[Download my resume ↗]([https://github.com/saicharansom/my-resume/blob/dd3b86cf35f4cdc3e083595e31688f02b74062a3/Sai%20Charan%20Somineni.pdf](https://github.com/saicharansom/my-resume/blob/main/Sai%20Charan%20S_Resume.pdf))
 
 <!-- ═══════════════════════ CONNECT LINKS ═══════════════════════ -->
 ## 🤝 Let’s connect
